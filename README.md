@@ -13,7 +13,8 @@
 
 ### ✨ Sobre mí
 Soy un **Líder Técnico con más de 20 años de experiencia** impulsando proyectos de transformación digital en los sectores **salud, minería e industria**.  
-Me apasiona construir soluciones simples, escalables y mantenibles con tecnología .NET y Angular, liderando equipos hacia la excelencia técnica y la entrega de valor real.
+Me apasiona construir soluciones simples, escalables y mantenibles profesionalmente con tecnología .NET y Angular, como hobbie uso gambas3.
+Me gusta liderar equipos hacia la excelencia técnica y la entrega de valor real.
 
 🧩 Especializado en **arquitectura fullstack con .NET 6–9, Angular 16, SQL Server y Oracle**  
 ☁️ Experiencia en **Azure, Linux y automatización DevOps**  
