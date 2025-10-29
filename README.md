@@ -1,16 +1,77 @@
-### Hi there 👋
+<!-- PROFILE README -->
 
-<!--
-**sepulvedamarcos/sepulvedamarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy <span style="color:#0078D7;">Marcos Sepúlveda</span></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 <b>Líder Técnico | Fullstack Tech Lead | Especialista en Transformación Digital</b><br/>
+  📍 Santiago, Chile · ✉️ sepulvedamarcos@gmail.com · 
+  <a href="https://www.linkedin.com/in/sepulveda-marcos">LinkedIn</a> · 
+  <a href="https://ko-fi.com/sepulvedamarcos">Ko-fi</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Sobre mí
+Soy un **Líder Técnico con más de 20 años de experiencia** impulsando proyectos de transformación digital en los sectores **salud, minería e industria**.  
+Me apasiona construir soluciones simples, escalables y mantenibles con tecnología .NET y Angular, liderando equipos hacia la excelencia técnica y la entrega de valor real.
+
+🧩 Especializado en **arquitectura fullstack con .NET 6–9, Angular 16, SQL Server y Oracle**  
+☁️ Experiencia en **Azure, Linux y automatización DevOps**  
+👥 Mentor de desarrolladores y promotor de buenas prácticas  
+🚀 Enfocado en conectar la tecnología con la estrategia de negocio  
+
+---
+
+### 🧠 Stack principal
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+---
+
+### 📦 Proyectos Destacados
+
+#### 🧰 [CommandLineLite](https://github.com/sepulvedamarcos/CommandLineLite)
+Librería ligera para manejar argumentos de línea de comandos en .NET  
+Ideal para utilidades de consola rápidas y sin dependencias innecesarias.  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120.svg?logo=csharp)
+
+> ⭐ Dale una estrella si te resulta útil  
+> ☕ [Invítame un café](https://ko-fi.com/sepulvedamarcos)
+
+---
+
+### 📈 En qué estoy trabajando
+- 🚧 Mejorando la documentación y ejemplos de **CommandLineLite**
+- ⚙️ Explorando nuevas herramientas para **automatización de despliegues** con .NET 9
+- 💡 Diseñando una arquitectura base para proyectos modulares de APIs y Frontend Angular  
+
+---
+
+### 🤝 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sepulveda-marcos">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Sep%C3%BAlveda-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sepulvedamarcos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sepulvedamarcos%40gmail.com-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/sepulvedamarcos">
+    <img src="https://img.shields.io/badge/Ko--fi-Apoyar%20con%20un%20caf%C3%A9-ff5e5b?logo=kofi&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“El código limpio no solo funciona, también se entiende.”</i>
+</p>
