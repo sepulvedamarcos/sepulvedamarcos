@@ -42,7 +42,7 @@ Me apasiona construir soluciones simples, escalables y mantenibles con tecnolog�
 Librería ligera para manejar argumentos de línea de comandos en .NET  
 Ideal para utilidades de consola rápidas y sin dependencias innecesarias. 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120.svg?logo=csharp)
 
 ⭐ Dale una estrella si te resulta útil  
@@ -56,14 +56,13 @@ Una aplicación para organizar y compartir fotos en redes locales Linux.
 
 ⭐ Dale una estrella si te resulta útil  
 
-
+Ademas de otros proyectos en mi perfil de GitHub:
 
 ---
 
 ### 📈 En qué estoy trabajando
-- 🚧 Mejorando la documentación y ejemplos de **CommandLineLite**
-- ⚙️ Explorando nuevas herramientas para **automatización de despliegues** con .NET 9
-- 💡 Diseñando una arquitectura base para proyectos modulares de APIs y Frontend Angular  
+- ⚙️ Refactorizando el proyecto **Gacela** por cambio de modelo.
+- 💡 Diseñando una arquitectura base para proyectos de IA.
 
 ---
 
