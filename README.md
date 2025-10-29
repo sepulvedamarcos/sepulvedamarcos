@@ -40,12 +40,23 @@ Me apasiona construir soluciones simples, escalables y mantenibles con tecnolog�
 
 #### 🧰 [CommandLineLite](https://github.com/sepulvedamarcos/CommandLineLite)
 Librería ligera para manejar argumentos de línea de comandos en .NET  
-Ideal para utilidades de consola rápidas y sin dependencias innecesarias.  
+Ideal para utilidades de consola rápidas y sin dependencias innecesarias. 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120.svg?logo=csharp)
 
-> ⭐ Dale una estrella si te resulta útil  
-> ☕ [Invítame un café](https://ko-fi.com/sepulvedamarcos)
+⭐ Dale una estrella si te resulta útil  
+
+#### 🧰 [Gacela](https://github.com/sepulvedamarcos/gacela)
+Gestor de Álbumes de fotos Compartidas En Linux Avanzado
+Una aplicación para organizar y compartir fotos en redes locales Linux.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Made with Gambas3](https://img.shields.io/badge/Made%20with-Gambas3-green.svg)](http://gambas.sourceforge.net/)
+
+⭐ Dale una estrella si te resulta útil  
+
+
 
 ---
 
